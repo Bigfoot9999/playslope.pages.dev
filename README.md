@@ -26,6 +26,6 @@ We rely on ads to help keep our servers running. Your clicks are always apprecia
 
 ## Screenshots
 
-![App Screenshot](https://play-lh.googleusercontent.com/26Fs3wWa0Dmt9V9Epci9O72cqM3OE4VhrVlFbauTtd7eggF-UPuqEnBGp1-EQPc69Q=w2560-h1440-rw)
+![App Screenshot](https://playslope.pages.dev/assets/images/1.jpg)
 
-![Logo](https://playslope.pages.dev/assets/images/slope-large-banner.jpg)
+![Logo]([https://playslope.pages.dev/assets/images/slope-large-banner.jpg](https://playslope.pages.dev/assets/images/blockposttextlogo.png))
