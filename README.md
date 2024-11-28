@@ -28,4 +28,4 @@ We rely on ads to help keep our servers running. Your clicks are always apprecia
 
 ![App Screenshot](https://playslope.pages.dev/assets/images/1.jpg)
 
-![Logo]([https://playslope.pages.dev/assets/images/slope-large-banner.jpg](https://playslope.pages.dev/assets/images/blockposttextlogo.png))
+![Logo](https://playslope.pages.dev/assets/images/blockposttextlogo.png)
