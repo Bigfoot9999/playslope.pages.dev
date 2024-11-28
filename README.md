@@ -1,4 +1,5 @@
 # Play Slope Game Unblocked Links
+![Logo](https://playslope.pages.dev/assets/images/blockposttextlogo.png)
 
 Slope Game is an exciting, fast-paced online game that challenges your reflexes and skill. Navigate through a 3D course filled with obstacles as you try to avoid falling off the track. The further you go, the faster the game becomes, making it a fun and addictive experience for players of all ages. Compete for the highest score and challenge your friends to beat it!
 
@@ -28,4 +29,3 @@ We rely on ads to help keep our servers running. Your clicks are always apprecia
 
 ![App Screenshot](https://playslope.pages.dev/assets/images/1.jpg)
 
-![Logo](https://playslope.pages.dev/assets/images/blockposttextlogo.png)
