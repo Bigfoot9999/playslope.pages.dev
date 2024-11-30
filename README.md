@@ -6,6 +6,7 @@ Slope Game is an exciting, fast-paced online game that challenges your reflexes 
 # Links
 
 - [playslope.pages.dev](https://playslope.pages.dev)
+- [https://bigfootshack.github.io/]([https://playslope.pages.dev](https://bigfootshack.github.io/)
 
 ## FAQ
 
